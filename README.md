@@ -82,58 +82,82 @@ Silakan digunakan dan dimodifikasi sesuai kebutuhan.
 
 ## 🖼️ Screenshot Aplikasi
 
+###🔑 Halaman Daftar dan Login Member
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5c2e753b-7a1b-436a-aef3-90dbadcdffab" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/573d34c1-6273-4d88-8e7a-5eb0edbb9289" />
+
+
 ### 🏠 Halaman Utama
 
 Menampilkan Hero Slide, Kategori Produk, Produk Terlaris, dan Tentang Kami
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/69c759bb-ccb5-40ce-9d81-0a6c878aafdc" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ef225b50-464e-40da-926f-dfcd0b807a93" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6c1e7460-aa46-412b-9ad9-06890e700dc8" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2cd55993-7623-4f93-adc2-58d0f498399d" />
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/90465701-23bf-4c90-bf9e-2dcc6fc0e066" />
+<img width="1364" height="768" alt="image" src="https://github.com/user-attachments/assets/daaebc7e-3ab6-4b94-9651-8b2aca2f30d2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3d3585cb-ce9c-4dbe-ad5d-9cb2f2e0ce86" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/013132a2-4f13-41b7-9967-bba0aaa313dd" />
 
 ### 🎁 Produk
 
 Menampilkan produk seperti deskripsi, harga, dan informasi tambahan sebelum melakukan pemesanan.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b59953d7-5bc8-469d-9e97-470843e5f3b8" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a8f62c5e-8adf-4a45-a476-bb9274b85a46" />
 
 ### 🌼 Detail Produk
 
 Menampilkan detail bunga seperti deskripsi, harga, dan informasi tambahan sebelum melakukan pemesanan.
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9ffca8a0-b43e-4d31-b625-4740e3a7b453" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/083ad1e6-54b7-411e-a91a-b902d0ce55c2" />
 
 
-### 🛒 Keranjang dan Halaman Pesanan
+
+### 🛒 Keranjang, Halaman Pesanan, dan Invoice
 
 Digunakan oleh user untuk melihat dan melakukan proses pemesanan bunga.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1661af0a-77a7-4aa7-893f-2f9046f02e08" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/713088fb-4f38-4127-87c0-dfa16c2232eb" />
+<img width="1035" height="768" alt="image" src="https://github.com/user-attachments/assets/0cc558a6-9ab5-4691-ba32-ad77325806f3" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9b37349d-2caf-4365-8b6e-45994edaf216" />
+
+### 👱‍♂️ Halaman Profile Member
+<img width="1365" height="768" alt="image" src="https://github.com/user-attachments/assets/4d2aa755-9a74-4ace-a918-0551d49843b4" />
+
+### Halaman Pemasanan Saya
+<img width="1365" height="768" alt="image" src="https://github.com/user-attachments/assets/71203904-77d9-44b8-83a1-d135b8588269" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/40709257-ed75-4844-a645-774aadae58b3" />
+
+### Halaman Profile
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b0c922b4-4f56-42c6-abbf-718a1bbe4e6d" />
+
 
 
 ### 🔐 Halaman Login Admin
 
 Halaman autentikasi untuk admin sebelum mengakses dashboard.
 
-```md
-![Login Admin](screenshots/login-admin.png)
-```
+<img width="1365" height="643" alt="image" src="https://github.com/user-attachments/assets/3cc81652-7429-4421-8526-56084087e646" />
+
 
 ### 📊 Dashboard Admin
 
 Dashboard utama admin untuk mengelola produk, kategori, pesanan, dan laporan.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d94cb2c4-2d67-487b-8cb0-bc5b46641ab1" />
 
-```md
-![Dashboard Admin](screenshots/dashboard-admin.png)
-```
+
 
 ### 📦 Manajemen Produk
 
 Digunakan admin untuk menambah, mengubah, dan menghapus data produk bunga.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b52e56d4-a92b-4711-80a3-e7a71de304cb" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c7b78bc7-12dd-4b49-ba06-5c50060e153c" />
+   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/89baf771-d3fe-43da-b608-81b12369eb93" />
 
-```md
-![Manajemen Produk](screenshots/produk-admin.png)
-```
+### Manajemen Slides
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4492445c-ce95-43d3-9a5a-7d8bca98edf6" />
 
----
+### Rekapan
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e8dfa61c-76ab-419f-a7d2-c0bc54bb35d0" />
+
+### Pesanan
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5c98fd60-4e58-49a2-8aae-52ec3f9004f6" />
+
+### Pengaturan Pembayaran
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3628bf6b-d8d4-42d0-a94c-172ecb88d335" />
