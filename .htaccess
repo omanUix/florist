@@ -1,0 +1,33 @@
+# Simple .htaccess for florist website
+RewriteEngine On
+
+# Hide sensitive files
+<Files "config.php">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+<Files "database.sql">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+<Files "test.php">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+<Files "simple.php">
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+# Prevent access to includes directory using RewriteRule
+RewriteRule ^includes/ - [F,L]
+
+# Error pages
+ErrorDocument 404 /florist/404.html
+ErrorDocument 500 /florist/500.html
+
+# Prevent directory browsing
+Options -Indexes
